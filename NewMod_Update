@@ -1,4 +1,19 @@
 ----------------------------
+UpdateChamp6=Cassiopeia
+UpdateSkin6=Cassiopeia Quý
+LuvSplashN6=R
+LoveSplash6=4
+----------------------------
+UpdateChamp2=Gangplank
+UpdateSkin2=Hồn Ma
+LuvSplashN2=R
+LoveSplash2=1
+----------------------------
+UpdateChamp5=Jayce
+UpdateSkin5=Jayce Kẻ Phản
+LuvSplashN5=R
+LoveSplash5=3
+----------------------------
 UpdateChamp1=Fiora
 UpdateSkin1=SIÊU PHẨM
 LuvSplashN1=R
@@ -18,18 +33,3 @@ UpdateChamp4=Braum
 UpdateSkin4=Braum Hộ Vệ
 LuvSplashN4=R
 LoveSplash4=3
-----------------------------
-UpdateChamp6=TwistedFate
-UpdateSkin6=Twisted Fate Thời Niên Thiếu
-LuvSplashN6=R
-LoveSplash6=9
-----------------------------
-UpdateChamp2=KogMaw
-UpdateSkin2=Kog'Maw Bướm Chúa
-LuvSplashN2=R
-LoveSplash2=3
-----------------------------
-UpdateChamp5=Morgana
-UpdateSkin5=Morgana Gai Đen
-LuvSplashN5=R
-LoveSplash5=4
