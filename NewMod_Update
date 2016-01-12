@@ -1,4 +1,14 @@
 ----------------------------
+UpdateChamp3=Zed
+UpdateSkin3=Zed L
+LuvSplashN3=R
+LoveSplash3=1
+----------------------------
+UpdateChamp7=KogMaw
+UpdateSkin7=Kog'Maw Múa
+LuvSplashN7=R
+LoveSplash7=5
+----------------------------
 UpdateChamp4=Nunu
 UpdateSkin4=Nunu Thây
 LuvSplashN4=R
@@ -23,13 +33,3 @@ UpdateChamp1=Fiora
 UpdateSkin1=SIÊU PHẨM
 LuvSplashN1=R
 LoveSplash1=4
-----------------------------
-UpdateChamp3=Volibear
-UpdateSkin3=Volibear Vệ Quân
-LuvSplashN3=R
-LoveSplash3=3
-----------------------------
-UpdateChamp7=Ekko
-UpdateSkin7=Ekko Bão Cát
-LuvSplashN7=R
-LoveSplash7=1
