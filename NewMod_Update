@@ -1,4 +1,19 @@
 ----------------------------
+UpdateChamp2=Gnar
+UpdateSkin2=Gnar Ngày Tuyết
+LuvSplashN2=R
+LoveSplash2=3
+----------------------------
+UpdateChamp5=Tahm Kench
+UpdateSkin5=Tahm Kench Vua
+LuvSplashN5=R
+LoveSplash5=1
+----------------------------
+UpdateChamp1=RekSai
+UpdateSkin1=Rek'Sai Bất Diệt
+LuvSplashN1=R
+LoveSplash1=1
+----------------------------
 UpdateChamp3=Zed
 UpdateSkin3=Zed L
 LuvSplashN3=R
@@ -18,18 +33,3 @@ UpdateChamp6=Cassiopeia
 UpdateSkin6=Cassiopeia Quý
 LuvSplashN6=R
 LoveSplash6=4
-----------------------------
-UpdateChamp2=Gangplank
-UpdateSkin2=Hồn Ma
-LuvSplashN2=R
-LoveSplash2=1
-----------------------------
-UpdateChamp5=Jayce
-UpdateSkin5=Jayce Kẻ Phản
-LuvSplashN5=R
-LoveSplash5=3
-----------------------------
-UpdateChamp1=Fiora
-UpdateSkin1=SIÊU PHẨM
-LuvSplashN1=R
-LoveSplash1=4
