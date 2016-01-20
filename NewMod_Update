@@ -1,35 +1,35 @@
 ----------------------------
+UpdateChamp3=Bard
+UpdateSkin3=Bard Ng
+LuvSplashN3=R
+LoveSplash3=5
+----------------------------
+UpdateChamp7=Tryndamere
+UpdateSkin7=Tryndamere Quỷ Kiếm
+LuvSplashN7=R
+LoveSplash7=4
+----------------------------
+UpdateChamp4=Draven
+UpdateSkin4=Draven Tiệc
+LuvSplashN4=R
+LoveSplash4=4
+----------------------------
+UpdateChamp6=Annie
+UpdateSkin6=Annie Lửa Băng
+LuvSplashN6=R
+LoveSplash6=4
+----------------------------
 UpdateChamp2=Gnar
 UpdateSkin2=Gnar Ngày Tuyết
 LuvSplashN2=R
-LoveSplash2=3
+LoveSplash2=5
 ----------------------------
-UpdateChamp5=TwistedFate
-UpdateSkin5=Twisted Fate Ảo Thuật Sư
+UpdateChamp5=Brand
+UpdateSkin5=Brand Hỏa
 LuvSplashN5=R
-LoveSplash5=3
+LoveSplash5=5
 ----------------------------
-UpdateChamp1=RekSai
-UpdateSkin1=Rek'Sai Bất Diệt
+UpdateChamp1=Alistar
+UpdateSkin1=Alistar Tổ Đội
 LuvSplashN1=R
-LoveSplash1=1
-----------------------------
-UpdateChamp3=Zed
-UpdateSkin3=Zed L
-LuvSplashN3=R
-LoveSplash3=1
-----------------------------
-UpdateChamp7=KogMaw
-UpdateSkin7=Kog'Maw Múa
-LuvSplashN7=R
-LoveSplash7=5
-----------------------------
-UpdateChamp4=Nunu
-UpdateSkin4=Nunu Thây
-LuvSplashN4=R
-LoveSplash4=7
-----------------------------
-UpdateChamp6=Cassiopeia
-UpdateSkin6=Cassiopeia Quý
-LuvSplashN6=R
-LoveSplash6=4
+LoveSplash1=8
