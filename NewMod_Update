@@ -1,8 +1,17 @@
-----------------------------
-UpdateChamp3=Bard
-UpdateSkin3=Bard Ng
+UpdateChamp1=Jinx
+UpdateSkin1=Jinx Ph
+LuvSplashN1=R
+LoveSplash1=2
+-
+UpdateChamp2=Caitlyn
+UpdateSkin2=Caitlyn Thợ Săn
+LuvSplashN2=R
+LoveSplash2=6
+-
+UpdateChamp3=Nidalee
+UpdateSkin3=Nidalee Thách Đấu
 LuvSplashN3=R
-LoveSplash3=5
+LoveSplash3=8
 ----------------------------
 UpdateChamp7=Tryndamere
 UpdateSkin7=Tryndamere Quỷ Kiếm
@@ -19,17 +28,7 @@ UpdateSkin6=Annie Lửa Băng
 LuvSplashN6=R
 LoveSplash6=5
 ----------------------------
-UpdateChamp2=Gnar
-UpdateSkin2=Gnar Ngày Tuyết
-LuvSplashN2=R
-LoveSplash2=3
-----------------------------
 UpdateChamp5=Brand
 UpdateSkin5=Brand Hỏa
 LuvSplashN5=R
 LoveSplash5=5
-----------------------------
-UpdateChamp1=Alistar
-UpdateSkin1=Alistar Toán Cướp
-LuvSplashN1=R
-LoveSplash1=8
