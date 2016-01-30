@@ -17,18 +17,18 @@ UpdateChamp4=Velkoz
 UpdateSkin4=Vel'Koz Cỗ Máy
 LuvSplashN4=R
 LoveSplash4=1
-----------------------------
-UpdateChamp7=Tryndamere
-UpdateSkin7=Tryndamere Quỷ Kiếm
-LuvSplashN7=R
-LoveSplash7=4
-----------------------------
-UpdateChamp6=Annie
-UpdateSkin6=Annie Lửa Băng
+-
+UpdateChamp5=Kalista
+UpdateSkin5=Kalista Quán
+LuvSplashN5=R
+LoveSplash5=2
+-
+UpdateChamp6=Lulu
+UpdateSkin6=Lulu Tiệc
 LuvSplashN6=R
 LoveSplash6=5
-----------------------------
-UpdateChamp5=Brand
-UpdateSkin5=Brand Hỏa
-LuvSplashN5=R
-LoveSplash5=5
+-
+UpdateChamp7=Taric
+UpdateSkin7=Taric Hồng Ngọc
+LuvSplashN7=R
+LoveSplash7=2
