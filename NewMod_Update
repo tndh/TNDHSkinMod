@@ -1,3 +1,23 @@
+-
+UpdateChamp4=Draven
+UpdateSkin4=Draven Thợ Săn
+LuvSplashN4=R
+LoveSplash4=5
+-
+UpdateChamp5=Tryndamere
+UpdateSkin5=Tryndamere Thợ Săn Quái
+LuvSplashN5=R
+LoveSplash5=8
+-
+UpdateChamp6=Ziggs
+UpdateSkin6=Ziggs Ma Pháp
+LuvSplashN6=R
+LoveSplash6=5
+-
+UpdateChamp7=Yasuo
+UpdateSkin7=Yasuo Cao
+LuvSplashN7=R
+LoveSplash7=1
 UpdateChamp1=Morgana
 UpdateSkin1=Morgana Nguyệt
 LuvSplashN1=R
@@ -8,27 +28,8 @@ UpdateSkin2=Caitlyn Nguyệt
 LuvSplashN2=R
 LoveSplash2=10
 -
-UpdateChamp3=Nidalee
-UpdateSkin3=Nidalee Thách Đấu
+UpdateChamp3=Orianna
+UpdateSkin3=Orianna Mùa Đông
 LuvSplashN3=R
-LoveSplash3=8
--
-UpdateChamp4=Velkoz
-UpdateSkin4=Vel'Koz Cỗ Máy
-LuvSplashN4=R
-LoveSplash4=1
--
-UpdateChamp5=Kalista
-UpdateSkin5=Kalista Quán
-LuvSplashN5=R
-LoveSplash5=2
--
-UpdateChamp6=Lulu
-UpdateSkin6=Lulu Tiệc
-LuvSplashN6=R
-LoveSplash6=5
--
-UpdateChamp7=Taric
-UpdateSkin7=Taric Hồng Ngọc
-LuvSplashN7=R
-LoveSplash7=2
+LoveSplash3=5
+
