@@ -1,13 +1,13 @@
 -
+UpdateChamp5=Jhin
+UpdateSkin5=Jhin Cao
+LuvSplashN5=R
+LoveSplash5=1
+-
 UpdateChamp4=Talon
 UpdateSkin4=SSW Talon
 LuvSplashN4=R
 LoveSplash4=4
--
-UpdateChamp5=Shen
-UpdateSkin5=Shenmurai
-LuvSplashN5=R
-LoveSplash5=5
 -
 UpdateChamp6=Zed
 UpdateSkin6=SIÊU
@@ -29,8 +29,7 @@ UpdateSkin2=SIÊU
 LuvSplashN2=R
 LoveSplash2=9
 -
-UpdateChamp3=Shen
-UpdateSkin3=Shen Ngoại Khoa
+UpdateChamp3=Tristana
+UpdateSkin3=Tristana Luyện
 LuvSplashN3=R
-LoveSplash3=3
-
+LoveSplash3=10
