@@ -1,35 +1,35 @@
+UpdateChamp1=MissFortune
+UpdateSkin1=Miss Fortune Giả Lập
+LuvSplashN1=R
+LoveSplash1=7
 -
-UpdateChamp5=Jhin
-UpdateSkin5=Jhin Cao
-LuvSplashN5=R
-LoveSplash5=1
+UpdateChamp2=Urgot
+UpdateSkin2=Urgot Cỗ Máy Chiến Đấu
+LuvSplashN2=R
+LoveSplash2=3
+-
+UpdateChamp3=Tristana
+UpdateSkin3=Tristana Luyện
+LuvSplashN3=R
+LoveSplash3=10
 -
 UpdateChamp4=Talon
 UpdateSkin4=SSW Talon
 LuvSplashN4=R
 LoveSplash4=4
 -
+UpdateChamp5=Jhin
+UpdateSkin5=Jhin Cao
+LuvSplashN5=R
+LoveSplash5=1
+-
 UpdateChamp6=Zed
 UpdateSkin6=SIÊU
 LuvSplashN6=R
 LoveSplash6=3
 -
-UpdateChamp7=Malzahar
-UpdateSkin7=Malzahar Ngày Tuyết
+UpdateChamp7=Twitch
+UpdateSkin7=Twitch Mafia
 LuvSplashN7=R
-LoveSplash7=5
+LoveSplash7=4
 -
-UpdateChamp1=Fizz
-UpdateSkin1=Fizz Thỏ
-LuvSplashN1=R
-LoveSplash1=8
--
-UpdateChamp2=MasterYi
-UpdateSkin2=SIÊU
-LuvSplashN2=R
-LoveSplash2=9
--
-UpdateChamp3=Tristana
-UpdateSkin3=Tristana Luyện
-LuvSplashN3=R
-LoveSplash3=10
