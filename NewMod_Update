@@ -1,7 +1,7 @@
-UpdateChamp1=Garen
-UpdateSkin1=Garen Đô Đốc
+UpdateChamp1=Trundle
+UpdateSkin1=Trundle Truyền Thống
 LuvSplashN1=R
-LoveSplash1=10
+LoveSplash1=3
 -
 UpdateChamp2=Katarina
 UpdateSkin2=Katarina Bão Cát
@@ -13,23 +13,23 @@ UpdateSkin3=Ekko Bão Cát
 LuvSplashN3=R
 LoveSplash3=1
 -
-UpdateChamp4=Kassadin
-UpdateSkin4=Kassadin Đạo Tặc
+UpdateChamp4=Olaf
+UpdateSkin4=Brolaf
 LuvSplashN4=R
-LoveSplash4=5
+LoveSplash4=3
 -
-UpdateChamp5=Nidalee
-UpdateSkin5=Nidalee Thách Đấu
+UpdateChamp5=Riven
+UpdateSkin5=Riven Giả Lập
 LuvSplashN5=R
-LoveSplash5=8
+LoveSplash5=6
 -
-UpdateChamp6=Fizz
-UpdateSkin6=Fizz Hư Không
+UpdateChamp6=Skarner
+UpdateSkin6=Skarner Vệ Binh
 LuvSplashN6=R
 LoveSplash6=4
 -
-UpdateChamp7=Talon
-UpdateSkin7=Talon Long Kiếm
+UpdateChamp7=Tryndamere
+UpdateSkin7=Tryndamere Quỷ Kiếm
 LuvSplashN7=R
-LoveSplash7=3
+LoveSplash7=4
 -
