@@ -1,35 +1,35 @@
-UpdateChamp1=Leblanc
-UpdateSkin1=Leblanc Thần Rừng
+UpdateChamp1=Annie
+UpdateSkin1=Annie Công Nghệ
 LuvSplashN1=R
-LoveSplash1=5
+LoveSplash1=10
 -
-UpdateChamp2=Khazix
-UpdateSkin2=Kha'Zix Hoa Độc
+UpdateChamp2=Leblanc
+UpdateSkin2=LeBlanc Thần Rừng
 LuvSplashN2=R
-LoveSplash2=3
+LoveSplash2=5
 -
-UpdateChamp3=Annie
-UpdateSkin3=Annie Công Nghệ
+UpdateChamp3=Khazix
+UpdateSkin3=Kha'Zix Hoa Độc
 LuvSplashN3=R
-LoveSplash3=10
+LoveSplash3=3
 -
-UpdateChamp4=Nautilus
-UpdateSkin4=Nautilus Phi Hành Gia
+UpdateChamp4=Ahri
+UpdateSkin4=Ahri Hàn Triều
 LuvSplashN4=R
-LoveSplash4=3
+LoveSplash4=1
 -
-UpdateChamp5=Olaf
-UpdateSkin5=Brolaf
+UpdateChamp5=Aatrox
+UpdateSkin5=Aatrox Công Lý
 LuvSplashN5=R
-LoveSplash5=3
+LoveSplash5=1
 -
-UpdateChamp6=Jinx
-UpdateSkin6=Jinx Pháo Hoa
+UpdateChamp6=Heimerdinger
+UpdateSkin6=Heimerdinger Người Tuyết
 LuvSplashN6=R
-LoveSplash6=2
+LoveSplash6=4
 -
-UpdateChamp7=Yasuo
-UpdateSkin7=Yasuo Huyết Nguyệt
+UpdateChamp7=Irelia
+UpdateSkin7=Irelia Băng Kiếm
 LuvSplashN7=R
-LoveSplash7=3
+LoveSplash7=4
 -
