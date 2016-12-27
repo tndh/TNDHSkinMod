@@ -1,7 +1,7 @@
-UpdateChamp1=Braum
-UpdateSkin1=Braum Ông Già
+UpdateChamp1=Poppy
+UpdateSkin1=Poppy Vệ Binh
 LuvSplashN1=R
-LoveSplash1=10
+LoveSplash1=7
 -
 UpdateChamp2=Bard
 UpdateSkin2=Bard Nhạc Sĩ
@@ -13,10 +13,10 @@ UpdateSkin3=Lux Nguyên Tố Tự Nhiên
 LuvSplashN3=R
 LoveSplash3=7
 -
-UpdateChamp4=Leblanc
-UpdateSkin4=Leblanc Thần Rừng
+UpdateChamp4=Riven
+UpdateSkin4=Riven Quán Quân
 LuvSplashN4=R
-LoveSplash4=5
+LoveSplash4=4
 -
 UpdateChamp5=Jinx
 UpdateSkin5=Jinx Vệ Binh Tinh Tú
